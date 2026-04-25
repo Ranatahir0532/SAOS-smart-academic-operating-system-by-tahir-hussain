@@ -24,15 +24,16 @@ Built without STL containers (no `vector`, no `map`), the system instead uses ra
 
 ---
 
-##  Key Use Cases
+##  Key Use Cases and Testing
 
 ### 1.  Student Enrollment & Course Management
 Students can browse available courses and self-enroll (up to 5 courses). Admins can also enroll or remove courses on a student's behalf. Duplicate enrollment and over-enrollment are both guarded with validation errors.
 
-1.1:Student aaliyan enrolling in OOP
+Test case 1.1:Student aaliyan enrolling in OOP
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/013c3669-5731-44da-837d-9fd333fee28d" />
-1.2:Admin removing aaliyan from OOP
+
+Test case 1.2:Admin removing aaliyan from OOP
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a1a980c6-d360-4a68-892b-e0ae40d2c767" />
 
