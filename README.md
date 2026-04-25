@@ -67,14 +67,16 @@ Faculty can mark attendance for individual students or switch to **Bulk Entry Mo
 ### 4.  Grade Assignment & Transcript Viewing
 Faculty can assign letter grades (A+, A, B-, etc.) to enrolled students for courses they teach. Students can view their official formatted transcript at any time, showing all enrolled courses and their current grades.
 
-| Test cases 3.1:Grading An assignment | Test case 3.2:Viewing transcript |
+| Test cases 4.1:Grading An assignment of Habib | Test case 4.2:Viewing transcript Habib got A+ (boom) |
 | :---: | :---: |
-| <img width="605" height="738" alt="image" src="https://github.com/user-attachments/assets/183bc913-dc3f-4455-931b-3437c1370ff1" />
-|<img width="565" height="828" alt="image" src="https://github.com/user-attachments/assets/9f8a421a-3c1c-4ceb-9909-2a4e30723e68" />
-|
+| <img width="300"  alt="image" src="https://github.com/user-attachments/assets/183bc913-dc3f-4455-931b-3437c1370ff1" />|<img width="300" alt="image" src="https://github.com/user-attachments/assets/9f8a421a-3c1c-4ceb-9909-2a4e30723e68" />|
 
 ### 5.  Faculty Salary Management & Redemption
 Admins can credit salary payments to individual faculty members. Faculty can then view their credited balance and redeem any portion of it — with validation to prevent over-redemption or invalid amounts.
+
+| Test cases 5.1:Admin giving Salary | Test case 5.2: |
+| :---: | :---: |
+| <img width="605" height="738" alt="image" src="https://github.com/user-attachments/assets/183bc913-dc3f-4455-931b-3437c1370ff1" />|<img width="565" height="828" alt="image" src="https://github.com/user-attachments/assets/9f8a421a-3c1c-4ceb-9909-2a4e30723e68" />|
 
 ### 6.  Persistent Data Storage Across Sessions
 All student records (courses, attendance, grades, fee balances), faculty data (assigned courses, salary), and admin credentials are automatically saved to `.txt` files on logout and reloaded on the next startup — ensuring no data is lost between sessions.
