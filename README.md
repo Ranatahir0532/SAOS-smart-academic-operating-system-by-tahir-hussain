@@ -31,7 +31,7 @@ Students can browse available courses and self-enroll (up to 5 courses). Admins 
 
 Test case 1.1:Student aaliyan enrolling in OOP
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/013c3669-5731-44da-837d-9fd333fee28d" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/013c3669-5731-44da-837d-9fd333fee28d" />
 
 Test case 1.2:Admin removing aaliyan from OOP
 
