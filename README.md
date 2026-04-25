@@ -40,6 +40,15 @@ Test case 1.2:Admin removing aaliyan from OOP
 ### 2.  Fee Payment System
 Students can view their current outstanding fee balance and make partial or full payments using an overloaded `-=` operator. The system prevents overpayments and invalid (zero or negative) amounts.
 
+Test cases 2.1:Khunais baig trying to overpay
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ecce6adf-df85-44c4-a1b0-a13df9c0acc6" />
+
+Test case 2.2:khuais baig paid 100000pkr
+
+<img width="250" height="367" alt="300" src="https://github.com/user-attachments/assets/6d71c11e-5a04-47df-889e-ca7bf71e665c" />
+
+
 ### 3.  Attendance Marking (Single & Bulk)
 Faculty can mark attendance for individual students or switch to **Bulk Entry Mode** to process an entire class at once by entering roll numbers sequentially. The system enforces that a student must be formally enrolled in a course before attendance can be recorded for it.
 
