@@ -29,7 +29,7 @@ Built without STL containers (no `vector`, no `map`), the system instead uses ra
 ### 1.  Student Enrollment & Course Management
 Students can browse available courses and self-enroll (up to 5 courses). Admins can also enroll or remove courses on a student's behalf. Duplicate enrollment and over-enrollment are both guarded with validation errors.
 
-| Test Case 1.1 | Test Case 1.2 |
+| Test Case 1.1:Student aaliyan enrolling in OOP | Test Case 1.2:Admin removing aaliyan from OOP |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/013c3669-5731-44da-837d-9fd333fee28d" width="300" /> | <img src="https://github.com/user-attachments/assets/a1a980c6-d360-4a68-892b-e0ae40d2c767" width="300" /> |
 
