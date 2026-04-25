@@ -59,9 +59,7 @@ Faculty can mark attendance for individual students or switch to **Bulk Entry Mo
 
 | Test cases 3.1:Marking for individual | Test case 3.2:Marking for bulk |
 | :---: | :---: |
-| <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2599d738-2cad-489a-bd86-b109cda79696" />
- | <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f43dd57b-e84a-4173-971c-70a852964371" />
- |
+| <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/2599d738-2cad-489a-bd86-b109cda79696" />| <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f43dd57b-e84a-4173-971c-70a852964371" />|
 
 
 
