@@ -44,7 +44,7 @@ Students can view their current outstanding fee balance and make partial or full
 
 | Test cases 2.1:Khunais baig trying to overpay | Test case 2.2:khuais baig paid 100000pkr |
 | :---: | :---: |
-| <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ecce6adf-df85-44c4-a1b0-a13df9c0acc6" /> | <img width="300" height="367" alt="300" src="https://github.com/user-attachments/assets/6d71c11e-5a04-47df-889e-ca7bf71e665c" /> |
+| <img width="300"  alt="image" src="https://github.com/user-attachments/assets/ecce6adf-df85-44c4-a1b0-a13df9c0acc6" /> | <img width="300"  alt="300" src="https://github.com/user-attachments/assets/6d71c11e-5a04-47df-889e-ca7bf71e665c" /> |
 
 
 
