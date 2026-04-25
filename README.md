@@ -74,9 +74,9 @@ Faculty can assign letter grades (A+, A, B-, etc.) to enrolled students for cour
 ### 5.  Faculty Salary Management & Redemption
 Admins can credit salary payments to individual faculty members. Faculty can then view their credited balance and redeem any portion of it — with validation to prevent over-redemption or invalid amounts.
 
-| Test cases 5.1:Admin giving Salary | Test case 5.2: |
+| Test cases 5.1:Admin giving Salary | Test case 5.2:Faculty redeming salary |
 | :---: | :---: |
-| <img width="605" height="738" alt="image" src="https://github.com/user-attachments/assets/183bc913-dc3f-4455-931b-3437c1370ff1" />|<img width="565" height="828" alt="image" src="https://github.com/user-attachments/assets/9f8a421a-3c1c-4ceb-9909-2a4e30723e68" />|
+| <img width="300"  alt="image" src="https://github.com/user-attachments/assets/1c37e328-41b0-46fa-af68-ff183bd4ad85" />|<img width="300"  alt="image" src="https://github.com/user-attachments/assets/796d720b-0f06-47b2-be08-9ffc7876500a" />|
 
 ### 6.  Persistent Data Storage Across Sessions
 All student records (courses, attendance, grades, fee balances), faculty data (assigned courses, salary), and admin credentials are automatically saved to `.txt` files on logout and reloaded on the next startup — ensuring no data is lost between sessions.
